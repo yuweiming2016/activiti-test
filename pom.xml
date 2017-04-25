@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   
   <dependencies>
-    	<!-- spring容器相关jarV1 -->
+    	<!-- spring容器相关jarVsadsdsad -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
